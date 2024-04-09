@@ -8,3 +8,4 @@ Postgre SQL
 PgAdmin4
 
 # Schema of the database
+![DatabaseSchema](https://github.com/mallickrishiraj/musicdatabase/assets/84040127/90028a09-ff10-4309-b81a-fb76adedbb37)
